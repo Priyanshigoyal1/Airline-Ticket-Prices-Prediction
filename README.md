@@ -117,6 +117,7 @@ Using RandomForestRegressor using sklearn library.
 ● MSE: 2813352.593918533
 
 ● RMSE: 1677.3051582578923
+
 Visualize the y_test and y_pred graph.
 
 2. XgBoost:
@@ -131,6 +132,7 @@ Using XgBoost using sklearn library.
 ● MSE: 2169695.4513331465
 
 ● RMSE: 1472.988612085357
+
 Visualize the y_test and y_pred graph.
 
 3. LightGBM Regressor:
@@ -145,4 +147,5 @@ Using LightGBM using sklearn library.
 ● MSE: 2169695.4513331465
 
 ● RMSE: 1472.988612085357
+
 Visualize the y_test and y_pred graph.
