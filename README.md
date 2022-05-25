@@ -107,27 +107,42 @@ highly as we also see it in the heat map.
 This is the regression problem so I applied regression models in this dataset.
 1. RandomForestRegressor:
 Using RandomForestRegressor using sklearn library.
+
 ● R^2 score on train dataset: 0.9770633013293992
+
 ● R^2 score on test dataset: 0.8620968227604909
+
 ● MAE: 804.3463478047694
+
 ● MSE: 2813352.593918533
+
 ● RMSE: 1677.3051582578923
 Visualize the y_test and y_pred graph.
 
 2. XgBoost:
 Using XgBoost using sklearn library.
+
 ● R^2 score on train dataset:0.963060144809135
+
 ● R^2 score on test dataset:0.8936472104393411
+
 ● MAE: 866.5499163218482
+
 ● MSE: 2169695.4513331465
+
 ● RMSE: 1472.988612085357
 Visualize the y_test and y_pred graph.
 
 3. LightGBM Regressor:
 Using LightGBM using sklearn library.
+
 ● R^2 score on train dataset:0.8992678740590899
+
 ● R^2 score on test dataset: 0.8641622806709836
+
 ● MAE: 866.5499163218482
+
 ● MSE: 2169695.4513331465
+
 ● RMSE: 1472.988612085357
 Visualize the y_test and y_pred graph.
